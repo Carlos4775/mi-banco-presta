@@ -1,0 +1,10 @@
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\bin\Debug\MiBanco.exe.config
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\bin\Debug\MiBanco.exe
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\bin\Debug\MiBanco.pdb
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.FrmCalculadoraPrestamoo.resources
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.Properties.Resources.resources
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.exe
+C:\Users\Carlos\source\repos\MiBanco\MiBanco\obj\Debug\MiBanco.pdb
